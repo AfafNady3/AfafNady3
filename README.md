@@ -17,8 +17,11 @@
 
 ---
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=afafnady3.afafnady3&left_color=blue&right_color=green" alt="visitors"/>
+  <a href="https://github.com/afafnady">
+    <img src="https://komarev.com/ghpvc/?username=afafnady&label=Profile%20Views&color=0d6efd&style=for-the-badge" alt="Profile Views" />
+  </a>
 </p>
+
 
 ### 📤 Contact & Social
 <p align="left">
