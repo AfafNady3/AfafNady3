@@ -55,8 +55,8 @@
 ### 📊 GitHub Stats & Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afafnady&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afafnady&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=afafnady3&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afafnady3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages"/>
 </p>
 
 
