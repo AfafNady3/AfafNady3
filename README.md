@@ -18,9 +18,10 @@
 ---
 <p align="center">
   <a href="https://github.com/afafnady3" target="_blank">
-    <img src="https://img.shields.io/badge/👀%20Profile%20Views-0-blue?style=for-the-badge&logo=github" alt="Profile Views"/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=afafnady3.afafnady3&left_color=blue&right_color=yellow&style=flat-square" alt="Profile Visitors" />
   </a>
 </p>
+
 ---
 
 
