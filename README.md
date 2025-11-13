@@ -1,76 +1,66 @@
+<h1 align="center">Hi, I'm Afaf Nady 👋</h1>
 
-
-<!--
-**mohamed-tarek656/mohamed-tarek656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><h1 align="center">Hi, I'm Afaf Nady</h1>
-
-<h2 align="center"> .NET Developer </h2>
+<h2 align="center">.NET Developer | Software Engineer</h2>
 <br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mohamed-tarek-7aaa50374/" target="_blank" rel="noopener noreferrer">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20👋;I%20am%20Mohamed%20Tarek%20Salah;Software%20Engineer%20%7C%20.NET%20Developer;Full%20Stack%20Web%20Developer;Always%20Learning%20New%20Things&font=Bold%20Code&center=true&color=30F050&pause=2000" alt="Typing SVG"/>
-</a>
-  <br><br>
-  <a href="https://trend-psi.vercel.app" target="_blank" rel="noopener noreferrer">🚀 My First Project — Trend</a>
-  &nbsp; | &nbsp;
-  <a href="https://mohamed-tarek656.github.io/bootstrap/" target="_blank" rel="noopener noreferrer">🚀 My Second Project — Bootstrap</a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20👋;I%20am%20Afaf%20Nady;Software%20Engineer%20%7C%20.NET%20Developer;Full%20Stack%20Web%20Developer;Always%20Learning%20New%20Things&font=Bold%20Code&center=true&color=30F050&pause=2000" alt="Typing SVG"/>
 </p>
 
+---
 
+### 🚀 About Me
+- 🎓 4th-year Computer Science student at **Tanta University**  
+- 💻 Passionate **.NET Developer** focused on building scalable and efficient systems  
+- 🤝 Open to collaborating on **.NET** and **open-source** projects  
+- ⚡ Always learning and exploring new technologies to improve my skills  
 
+---
 
+### 💼 My Projects
 
+<p align="center">
+  <a href="https://github.com/your-username/Project1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Project1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/your-username/Project2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Project2&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/your-username/Project3" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Project3&theme=tokyonight" />
+  </a>
+</p>
 
-### `🚀 About Me`
-- 🎓 4rd-year Computer Science student at **Tanta University**  
-- 💻 Passionate **Backend .NET Developer** with focus on building scalable applications   
-- 🤝 Open to collaborations on **.NET projects** and **open-source contributions**  
-- ⚡ Always eager to learn and share knowledge about **modern software engineering practices** 
-  
+> 📝 *You can replace `your-username` and `Project1`/`Project2`/`Project3` with your actual GitHub repositories.*
 
+---
 
+### 📤 Contact & Social
+<p align="left">
+  <a href="mailto:afafnady79@gmail.com">
+    <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35" alt="Gmail"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/afaf-nady-0b3215266">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45" alt="LinkedIn"/>
+  </a>&nbsp;
+</p>
 
-### `📤 Contact & Social`
-  <p align="left">
-    <a href="mailto:afafnady79@gmail.com"> <!-- Gmail -->
-      <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
-    </a>&nbsp;
-    <a href="https://www.linkedin.com/in/afaf-nady-0b3215266"> <!-- LinkedIn Profile -->
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
-    </a>&nbsp;
-  
-  </p>
+---
 
-### `🛠️ Languages & Tools`
-
-  <p align="left">
+### 🛠️ Languages & Tools
+<p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,cpp,python,html,css,js,ts,react,angular,bootstrap,tailwind,sqlserver,mysql,postgres,mongodb,git,github,docker,kubernetes,azure,aws,postman,visualstudio,vscode,figma"/>
 </p>
 
+---
 
-
-### `🔥 Streak`
+### 🔥 GitHub Stats
 <p align="left">
-  <!-- GitHub Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="125"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afafnady&layout=compact&langs_count=6&theme=highcontrast" height="125" alt="Top Languages"/>
 </p>
 
+---
 
-
-
-
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
-  </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
