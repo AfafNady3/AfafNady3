@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20👋;I%20am%20Afaf%20Nady;.NET%20Developer;Always%20Learning%20New%20Things&font=Bold%20Code&center=true&color=30F050&pause=2000" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20👋;I%20am%20Afaf%20Nady;A.NET%20Developer;Always%20Learn%20New%20Things&font=Bold%20Code&center=true&color=30F050&pause=2000" alt="Typing SVG"/>
 </p>
 
 ---
@@ -55,8 +55,8 @@
 ### 📊 GitHub Stats & Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afafnady3&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afafnady3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AfafNady3&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfafNady3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages"/>
 </p>
 
 
