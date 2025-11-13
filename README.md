@@ -30,9 +30,17 @@
 ---
 
 ### 🛠️ Languages & Tools
+
+#### 💻 Programming Languages  
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,cpp,python,html,css,js,ts,react,angular,bootstrap,tailwind,sqlserver,mysql,postgres,mongodb,git,github,docker,kubernetes,azure,aws,postman,visualstudio,vscode,figma"/>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,html,css" height="40" />
 </p>
+
+#### ⚙️ Frameworks & Libraries  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,react,angular,bootstrap" height="40" />
+</p>
+
 
 ---
 
