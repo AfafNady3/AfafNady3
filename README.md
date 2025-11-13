@@ -16,6 +16,9 @@
 - ⚡ Always learning and exploring new technologies to improve my skills  
 
 ---
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=afafnady3.afafnady3&left_color=blue&right_color=green" alt="visitors"/>
+</p>
 
 ### 📤 Contact & Social
 <p align="left">
