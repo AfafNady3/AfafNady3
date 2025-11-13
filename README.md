@@ -17,10 +17,11 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/afafnady">
-    <img src="https://komarev.com/ghpvc/?username=afafnady&label=Profile%20Views&color=0d6efd&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/afafnady" target="_blank">
+    <img src="https://img.shields.io/badge/👀%20Profile%20Views-0-blue?style=for-the-badge&logo=github" alt="Profile Views"/>
   </a>
 </p>
+---
 
 
 ### 📤 Contact & Social
